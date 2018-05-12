@@ -1,0 +1,29 @@
+_repo: Manuel-pratique-de-Jardinaged-en-diriger-la-culture_39889
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Courtois-Gérard
+    alias: Courtois-Gerard
+    gutenberg_agent_id: '40281'
+    url: http://www.gutenberg.org/2009/agents/40281
+description: ''
+gutenberg_bookshelf:
+- FR Métiers et Artisanat
+- FR Sciences et Techniques
+gutenberg_issued: '2012-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39889'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gardening -- France'
+- !lcc 'SB'
+title: "Manuel pratique de Jardinage\r\ncontenant la manière de cultiver soi-même\
+  \ un jardin ou d'en diriger la culture"
+url: http://www.gutenberg.org/ebooks/39889
