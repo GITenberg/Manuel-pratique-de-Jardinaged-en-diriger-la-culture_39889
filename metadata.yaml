@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40281'
     url: http://www.gutenberg.org/2009/agents/40281
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39889#Manuel-pratique-de-Jardinaged-en-diriger-la-culture
 gutenberg_bookshelf:
 - FR Métiers et Artisanat
 - FR Sciences et Techniques
